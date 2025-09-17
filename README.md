@@ -49,7 +49,7 @@ How to Use
 
 Clone the repository:
 
-git clone https://github.com/sunnysirohii/portfolio-website.git
+git clone https://github.com/sunnysirohii/My-Portfolio
 
 
 Open index.html in a web browser.
